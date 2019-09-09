@@ -6,7 +6,6 @@ This repo is a simple CRUD contact manager.
 ### Requirements
 - PHP >= 7.1.3
 - Composer
-- Laravel
 
 ### Startup
 
